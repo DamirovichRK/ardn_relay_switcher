@@ -1,0 +1,3 @@
+[submodule "libs/GyverOLED"]
+	path = libs/GyverOLED
+	url = https://github.com/GyverLibs/GyverOLED.git
