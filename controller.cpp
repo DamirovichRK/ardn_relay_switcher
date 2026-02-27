@@ -1,5 +1,5 @@
-#include <GyverOLED.h>
-#include <Encoder.h>
+#include <libs/GyverOLED/GyverOLED.h>
+#include <libs/Encoder/Encoder.h>
 
 #define ENC_A 2
 #define ENC_B 3
