@@ -1,3 +1,6 @@
 [submodule "libs/GyverOLED"]
 	path = libs/GyverOLED
 	url = https://github.com/GyverLibs/GyverOLED.git
+[submodule "libs/Encoder"]
+	path = libs/Encoder
+	url = https://github.com/PaulStoffregen/Encoder
